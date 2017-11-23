@@ -1,0 +1,5 @@
+/home/matt/Projects/PlaybackManager/PlaybackManagerd/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/matt/Projects/PlaybackManager/PlaybackManagerd/bin/Debug/PlaybackManagerd.exe.mdb
+/home/matt/Projects/PlaybackManager/PlaybackManagerd/bin/Debug/PlaybackManagerd.exe
+/home/matt/Projects/PlaybackManager/PlaybackManagerd/obj/x86/Debug/PlaybackManagerd.exe
+/home/matt/Projects/PlaybackManager/PlaybackManagerd/obj/x86/Debug/PlaybackManagerd.exe.mdb
